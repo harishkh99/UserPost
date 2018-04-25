@@ -1,0 +1,12 @@
+.posts-container {
+    margin: 5%;
+}
+.-header {
+    border: 1px solid black;
+    clear: both;
+    margin:-9px 0px 1px 0px;
+}
+.-headerGroups{
+    background: white !important;
+    border-bottom: 1px solid white !important;
+}
